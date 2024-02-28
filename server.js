@@ -1,4 +1,4 @@
-const io = require('socket.io')(3000)
+const io = require('socket.io')(https://chit-chat-nine-smoky.vercel.app)
 
 const users = {}
 
